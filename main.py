@@ -15,4 +15,5 @@ class User:
   def __init__(self, memberID, name):
     self.memberID = memberID
     self.name = name
+    print("I am a user")
 
